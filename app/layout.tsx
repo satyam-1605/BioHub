@@ -13,8 +13,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "TreeBio ",
-  description: "TreeBio - Your lintree alternative for managing your links",
+  title: "BioHub ",
+  description: "BioHub - Your lintree alternative for managing your links",
 };
 
 export default function RootLayout({
